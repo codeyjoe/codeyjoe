@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @codeyjoe
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on fun projects
